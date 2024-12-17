@@ -1,4 +1,3 @@
-
 ---
 
 # Coding Profiles Evaluator
